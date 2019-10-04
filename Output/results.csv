@@ -1,0 +1,10 @@
+Pull_Request_ID,Title,url
+PyGithub-1188,Label API: pass custom media type in the Accept header,https://api.github.com/repos/PyGithub/PyGithub/pulls/1188
+PyGithub-1100,PullRequest: Add draft attribute,https://api.github.com/repos/PyGithub/PyGithub/pulls/1100
+PyGithub-1148,Fixed #1147 Missing support for license attribute in Repository,https://api.github.com/repos/PyGithub/PyGithub/pulls/1148
+PyGithub-1178,Fix URL encoding in GithubObject:__complete,https://api.github.com/repos/PyGithub/PyGithub/pulls/1178
+PyGithub-1231,Type stubs for mypy,https://api.github.com/repos/PyGithub/PyGithub/pulls/1231
+PyGithub-1038,[WIP] Replace broken edit_user|team_push_restrictions with full implementation of the API,https://api.github.com/repos/PyGithub/PyGithub/pulls/1038
+PyGithub-1029,add has_organization_projects and has_repository_projects,https://api.github.com/repos/PyGithub/PyGithub/pulls/1029
+PyGithub-1212,fix topics attribute always return None,https://api.github.com/repos/PyGithub/PyGithub/pulls/1212
+PyGithub-1216,Add 'author_association' to 'PullRequest',https://api.github.com/repos/PyGithub/PyGithub/pulls/1216
